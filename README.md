@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h2 align="center">Hi there! 👋 I'm Jenish Dabhi</h2>
 <h3 align="center">Passionate and driven Programmer with a mission to redefine the web development landscape. I aspire to empower clients, inspire colleagues, and make a lasting impact on the online community.</h3>
