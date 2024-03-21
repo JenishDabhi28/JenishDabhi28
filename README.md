@@ -12,8 +12,9 @@
 
 <h3 align="left">Projects</h3>
 
-- **Restaurant Food & Drink**: [Visit Website](https://jenishrestro.vercel.app/)
+- **Restaurant Food & Drink** : [Visit Website](https://jenishrestro.vercel.app/)
 - **Employee Management System**
+- **Fashion Store** : [Visit Website](https://fashion-store-jen.vercel.app/)
 - **Chocolate Cafe**
 
 <h3 align="left">Connect with me:</h3>
